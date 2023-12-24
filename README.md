@@ -14,8 +14,10 @@ I'm Taarah, a passionate Weeb and anime fan, who loves cute and funny code from 
 I am Transgender Male to Female. I love anime, weeb shit, code, and my girlfriend. I browse boorus all day, watch anime and read mannga.
 I am prone to Autistic meltdowns/Tantrums and Love my friends. I am currently learning code.
 From my girlfriend, who is beautiful.
+
 ![GitHub stars](https://img.shields.io/github/stars/TaarahPoweredbygfuel?style=social)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?TaarahPoweredbygfuel)
 
 
 </details>
