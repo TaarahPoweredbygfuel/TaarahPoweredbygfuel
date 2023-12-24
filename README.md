@@ -17,9 +17,11 @@ From my girlfriend, who is beautiful.
 
 ![GitHub stars](https://img.shields.io/github/stars/TaarahPoweredbygfuel?style=social)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TaarahPoweredbygfuel)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TaarahPoweredbygfuel)
+
+![GitHub release](https://img.shields.io/github/v/release/TaarahPoweredbygfuel/Ck2_skill_Inserter)
+
 
 
 
